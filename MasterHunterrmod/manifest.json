@@ -1,0 +1,10 @@
+{
+  "Name": "MasterHunterrmod",
+  "Author": "MasterHunterr",
+  "Version": "1.0.0",
+  "Description": "mod menu",
+  "UniqueID": "MasterHunterr.RTLTextHandler",
+  "EntryDll": "MasterHunterr.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": ["Nexus:12345"]
+}
